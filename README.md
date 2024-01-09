@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-✅ [Rock Paper Scissors Demo](https://your-demo-link.com/)
+✅ [Rock Paper Scissors Demo](https://mrohit23.github.io/Rock-Paper-Scissor-Game/)
 
 A classic Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
@@ -13,9 +13,9 @@ A classic Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-✅ [Rock Paper Scissors Demo](https://your-demo-link.com/)
+✅ [Rock Paper Scissors Demo](https://mrohit23.github.io/Rock-Paper-Scissor-Game/)
 
-Check out the live demo [here](https://your-demo-link.com/).
+Check out the live demo [here](https://mrohit23.github.io/Rock-Paper-Scissor-Game/).
 
 ## Features
 
@@ -28,7 +28,7 @@ Check out the live demo [here](https://your-demo-link.com/).
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MRohit23/rock-paper-scissors.git`
+1. Clone the repository: `git clone https://github.com/MRohit23/Rock-Paper-Scissor-Game.git`
 2. Open `index.html` in your preferred browser.
 
 ## Usage
